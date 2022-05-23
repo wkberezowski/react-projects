@@ -1,1 +1,1 @@
-# react-projects
+# Color Generator
