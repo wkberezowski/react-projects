@@ -24,7 +24,7 @@ export const AppProvider = ({ children }) => {
   };
 
   const closeSubmenu = () => {
-    setIsSubmenuOpen(true);
+    setIsSubmenuOpen(false);
   };
 
   return (
